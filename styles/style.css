@@ -17,7 +17,7 @@
     --var-red:#f5006a;
 }
 body{
-    height: 5000px;
+    /* height: 5000px; */
 }
 
 nav{
@@ -704,8 +704,8 @@ line-height: 1.6;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 750px;
-    padding-bottom: 120px;
+    margin-top: 950px;
+    padding-bottom: 250px;
     /* border: 2px solid green; */
    
 
@@ -890,6 +890,7 @@ line-height: 1.6;
     gap: 15px;
 }
 .saving .right_container .buttons{
+    margin-top: 75px;
     display: flex;
     justify-content: start;
     align-items: center;
